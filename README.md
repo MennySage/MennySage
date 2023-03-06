@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I´m Rafael Fernandes 👋
 
-<!--
-**MennySage/MennySage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
 
-Here are some ideas to get you started:
+Developer since 2022, working mainly in JavaScript projects, using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- HTML
+- CSS
+
+## My Course
+
+I study systems analysis and development at the FAEX University of EXTREMA, and I work on several personal projects.
